@@ -24,7 +24,7 @@ Si quieres aprender a crear páginas web, entonces necesitas aprender HTML. Este
     11. [Tablas](./modulos/01_HTML_básico/1.11_Tablas.md)
     12. [Listas](./modulos/01_HTML_básico/1.12_Listas.md)
 2. Formularios
-   1. Introducción a los formularios
+   1. [Introducción a los formularios](./modulos/02_formularios/2.1_Formularios.md)
    2. Elementos de formularios
    3. Tipos de input
    4. Atributos de input
