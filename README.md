@@ -1,16 +1,18 @@
-# Curso-de-HTML-completo-desde-cero
+# Curso de HTML completo desde cero
 
 Si quieres aprender a crear páginas web, entonces necesitas aprender HTML. Este curso te enseñará todo lo que necesitas saber sobre HTML.
+
+[Hacer el curso en vídeo](https://kikopalomares.com/cursos/html)
 
 <a href="https://kikopalomares.com/cursos/html" target="_blank">
     <img src="./img/curso_html_thumbnail.jpg" alt="Imagen del curso de HTML de Kiko Palomares">
 </a>
 
 
-# Índice del curso
+## Índice del curso
 1. HTML básico
     1. [Introducción a HTML](./modulos/01_HTML_básico/1.1_Introduccion_a_HTML.md)
-    2. Ejemplos básicos
+    2. [Ejemplos básicos](./modulos/01_HTML_básico/1.2_Ejemplos_basicos.md)
     3. Elementos
     4. Atributos
     5. Encabezados
