@@ -14,9 +14,9 @@ Si quieres aprender a crear páginas web, entonces necesitas aprender HTML. Este
     1. [Introducción a HTML](./modulos/01_HTML_básico/1.1_Introduccion_a_HTML.md)
     2. [Ejemplos básicos](./modulos/01_HTML_básico/1.2_Ejemplos_basicos.md)
     3. [Elementos](./modulos/01_HTML_básico/1.3_Elementos.md)
-    4. Atributos
-    5. Encabezados
-    6. Párrafos
+    4. [Atributos](./modulos/01_HTML_básico/1.4_Atributos.md)
+    5. [Encabezados](./modulos/01_HTML_básico/1.5_Encabezados.md)
+    6. [Párrafos](./modulos/01_HTML_básico/1.6_Parrafos.md)
     7. Formato de texto
     8. Comentarios
     9. Enlaces
