@@ -17,12 +17,12 @@ Si quieres aprender a crear páginas web, entonces necesitas aprender HTML. Este
     4. [Atributos](./modulos/01_HTML_básico/1.4_Atributos.md)
     5. [Encabezados](./modulos/01_HTML_básico/1.5_Encabezados.md)
     6. [Párrafos](./modulos/01_HTML_básico/1.6_Parrafos.md)
-    7. Formato de texto
-    8. Comentarios
-    9. Enlaces
-    10. Imágenes
-    11. Tablas
-    12. Listas
+    7. [Formato de texto](./modulos/01_HTML_básico/1.7_Formato_de_texto.md)
+    8. [Comentarios](./modulos/01_HTML_básico/1.8_Comentarios.md)
+    9. [Enlaces](./modulos/01_HTML_básico/1.9_Enlaces.md)
+    10. [Imágenes](./modulos/01_HTML_básico/1.10_Imagenes.md)
+    11. [Tablas](./modulos/01_HTML_básico/1.11_Tablas.md)
+    12. [Listas](./modulos/01_HTML_básico/1.12_Listas.md)
 2. Formularios
    1. Introducción a los formularios
    2. Elementos de formularios
