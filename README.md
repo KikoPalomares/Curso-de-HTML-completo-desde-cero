@@ -13,7 +13,7 @@ Si quieres aprender a crear páginas web, entonces necesitas aprender HTML. Este
 1. HTML básico
     1. [Introducción a HTML](./modulos/01_HTML_básico/1.1_Introduccion_a_HTML.md)
     2. [Ejemplos básicos](./modulos/01_HTML_básico/1.2_Ejemplos_basicos.md)
-    3. Elementos
+    3. [Elementos](./modulos/01_HTML_básico/1.3_Elementos.md)
     4. Atributos
     5. Encabezados
     6. Párrafos
@@ -47,3 +47,7 @@ Si quieres aprender a crear páginas web, entonces necesitas aprender HTML. Este
    11. Entidades
    12. Emojis
    13. Guía de estilo
+
+
+------------
+[Powered by Kiko Palomares](https://kikopalomares.com/)
