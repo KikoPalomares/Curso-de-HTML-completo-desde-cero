@@ -16,6 +16,7 @@ Si tienes dudas mientras haces el curso o te quedas bloqueado puedes preguntar e
 
 
 ## Índice del curso
+
 1. HTML básico
     1. [Introducción a HTML](./modulos/01_HTML_básico/1.1_Introduccion_a_HTML.md)
     2. [Ejemplos básicos](./modulos/01_HTML_básico/1.2_Ejemplos_basicos.md)
@@ -39,25 +40,25 @@ Si tienes dudas mientras haces el curso o te quedas bloqueado puedes preguntar e
    2. [Audio](./modulos/03_Media_en_HTML/3.2_audio.md)
    3. [YouTube](./modulos/03_Media_en_HTML/3.3_youtube.md)
 4. HTML avanzado
-   1. Introducción a HTML avanzado
-   2. Citas y menciones
-   3. Mapas de imagen
-   4. El elemento picture
-   5. Bloques y elementos in línea
-   6. Iframes
-   7. Head
-   8. Layouts
-   9. Elementos de código
-   10. Semántica
-   11. Entidades
-   12. Emojis
-   13. Guía de estilo
+   1. [Citas y menciones](./modulos/04_HTML_avanzado/4.1_Citas_y_menciones.md)
+   2. [Mapas de imagen](./modulos/04_HTML_avanzado/4.2_Mapas_de_imagen.md)
+   3. [El elemento picture](./modulos/04_HTML_avanzado/4.3_Elemento_picture.md)
+   4. Bloques y elementos in línea
+   5. Iframes
+   6. Head
+   7. Layouts
+   8. Elementos de código
+   9.  Semántica
+   10. Entidades
+   11. Emojis
+   12. Guía de estilo
 
 -----------
 
 ### Enlaces de interés
 
 - [Contenido del curso en kikopalomares.com](https://kikopalomares.com/cursos/html)
+- [Más contenido de HTML en YouTube](https://www.youtube.com/playlist?list=PLnunbwZjHqMOFL0vGRg-2OhV8fTtbujrD)
 - [Documentación de HTML en Mozilla](https://developer.mozilla.org/es/docs/Web/HTML)
 - [Documentación de HTML en W3schools](https://www.w3schools.com/html/)
 
@@ -66,6 +67,12 @@ Si tienes dudas mientras haces el curso o te quedas bloqueado puedes preguntar e
 ## 👋 Hola, mi nombre es Kiko Palomares
 
 Soy fullstack developer desde hace más de 10 años, autor del libro [*No todo es programar*](https://notodoesprogramar.com/), trabajo como líder de equipo en una empresa y también me dedico a divulgar contenido sobre programación y tecnología en la red. Puedes seguir todo mi contenido desde mi página web [https://kikopalomares.com/](https://kikopalomares.com/) o mis redes sociales como [@kikopalomares](https://kiko.pro/).
+
+Puedes apoyar mi trabajo nominándome como [GitHub Star](https://stars.github.com/nominate/) o marcando la *★ Star* del repositorio.
+
+[![GitHub Star](https://img.shields.io/badge/-%E2%98%85%20Nominar%20a%20Star-yellow)](https://stars.github.com/nominate/)
+
+-----
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UClk6ZM2sM04tofDdFro8pag?style=social)](https://www.youtube.com/kikopalomares/?sub_confirmation=1)
 [![Discord](https://img.shields.io/discord/701885087217614959?style=social&label=Discord&logo=discord)](http://kikopalomares.com/discord)
