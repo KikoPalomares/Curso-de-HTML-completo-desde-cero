@@ -43,12 +43,12 @@ Si tienes dudas mientras haces el curso o te quedas bloqueado puedes preguntar e
    1. [Citas y menciones](./modulos/04_HTML_avanzado/4.1_Citas_y_menciones.md)
    2. [Mapas de imagen](./modulos/04_HTML_avanzado/4.2_Mapas_de_imagen.md)
    3. [El elemento picture](./modulos/04_HTML_avanzado/4.3_Elemento_picture.md)
-   4. Bloques y elementos in línea
-   5. Iframes
-   6. Head
+   4. [Bloques y elementos in línea](./modulos/04_HTML_avanzado/4.4_Bloques_y_elementos_en_linea.md)
+   5. [Iframes](./modulos/04_HTML_avanzado/4.5_Iframes.md)
+   6. [Head](./modulos/04_HTML_avanzado/4.6_Head.md)
    7. Layouts
    8. Elementos de código
-   9.  Semántica
+   9. Semántica
    10. Entidades
    11. Emojis
    12. Guía de estilo
@@ -78,7 +78,7 @@ Puedes apoyar mi trabajo nominándome como [GitHub Star](https://stars.github.co
 [![Discord](https://img.shields.io/discord/701885087217614959?style=social&label=Discord&logo=discord)](http://kikopalomares.com/discord)
 [![Twitter Follow](https://img.shields.io/twitter/follow/kikopalomares?style=social)](https://twitter.com/kikopalomares)
 [![GitHub followers](https://img.shields.io/github/followers/kikopalomares?style=social)](https://github.com/KikoPalomares)
-![GitHub Stars](https://img.shields.io/github/stars/kikopalomares?style=social)
+[![GitHub Stars](https://img.shields.io/github/stars/kikopalomares?style=social)](https://github.com/KikoPalomares)
 
 -----
 
