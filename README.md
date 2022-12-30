@@ -28,7 +28,7 @@ Si tienes dudas mientras haces el curso o te quedas bloqueado puedes preguntar e
     11. [Tablas](./modulos/01_HTML_básico/1.11_Tablas.md)
     12. [Listas](./modulos/01_HTML_básico/1.12_Listas.md)
 2. Formularios
-   1. [Introducción a los formularios](./modulos/02_formularios/2.1_Formularios.md)
+   1. [Introducción a los formularios](./modulos/02_Formularios/2.1_Formularios.md)
    2. [Elementos de formularios](./modulos/02_Formularios/2.2_Elementos_de_formulario.md)
    3. [Tipos de input](./modulos/02_Formularios/2.3_Tipos_de_input.md)
    4. [Atributos de input](./modulos/02_Formularios/2.4_Atributos_de_input.md)
