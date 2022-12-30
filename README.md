@@ -1,7 +1,12 @@
 # Curso de HTML completo desde cero
 
-
 Si quieres aprender a crear páginas web, entonces necesitas aprender HTML. Este curso te enseñará todo lo que necesitas saber sobre HTML.
+
+### ¡Si te resulta útil el curso apoya mi contenido pulsando la *★ Star* del repositorio!
+
+Si tienes dudas mientras haces el curso o te quedas bloqueado puedes preguntar en nuestra comunidad de [discord](http://kikopalomares.com/discord) e intentaremos ayudarte.
+
+----
 
 [Hacer el curso en vídeo](https://kikopalomares.com/cursos/html)
 
@@ -30,10 +35,9 @@ Si quieres aprender a crear páginas web, entonces necesitas aprender HTML. Este
    3. [Tipos de input](./modulos/02_Formularios/2.3_Tipos_de_input.md)
    4. [Atributos de input](./modulos/02_Formularios/2.4_Atributos_de_input.md)
 3. Media en HTML
-   1. Introducción a media
-   2. Vídeo
-   3. Audio
-   4. YouTube
+   1. [Vídeo](./modulos/03_Media_en_HTML/3.1_video.md)
+   2. [Audio](./modulos/03_Media_en_HTML/3.2_audio.md)
+   3. [YouTube](./modulos/03_Media_en_HTML/3.3_youtube.md)
 4. HTML avanzado
    1. Introducción a HTML avanzado
    2. Citas y menciones
@@ -49,14 +53,19 @@ Si quieres aprender a crear páginas web, entonces necesitas aprender HTML. Este
    12. Emojis
    13. Guía de estilo
 
+-----------
+
+### Enlaces de interés
+
+- [Contenido del curso en kikopalomares.com](https://kikopalomares.com/cursos/html)
+- [Documentación de HTML en Mozilla](https://developer.mozilla.org/es/docs/Web/HTML)
+- [Documentación de HTML en W3schools](https://www.w3schools.com/html/)
 
 ------------
 
-## Mi nombre es Kiko Palomares
+## 👋 Hola, mi nombre es Kiko Palomares
 
-Soy fullstack developer desde hace más de 10 años, trabajo como líder de equipo en una empresa y también me dedico a divulgar contenido sobre programación y tecnología en la red. Puedes seguir todo mi contenido desde mi página web [https://kikopalomares.com/](https://kikopalomares.com/) o mis [redes sociales](https://kiko.pro/).
-
-----
+Soy fullstack developer desde hace más de 10 años, autor del libro [*No todo es programar*](https://notodoesprogramar.com/), trabajo como líder de equipo en una empresa y también me dedico a divulgar contenido sobre programación y tecnología en la red. Puedes seguir todo mi contenido desde mi página web [https://kikopalomares.com/](https://kikopalomares.com/) o mis redes sociales como [@kikopalomares](https://kiko.pro/).
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UClk6ZM2sM04tofDdFro8pag?style=social)](https://www.youtube.com/kikopalomares/?sub_confirmation=1)
 [![Discord](https://img.shields.io/discord/701885087217614959?style=social&label=Discord&logo=discord)](http://kikopalomares.com/discord)
