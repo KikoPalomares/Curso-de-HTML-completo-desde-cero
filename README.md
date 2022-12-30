@@ -10,10 +10,7 @@ Si tienes dudas mientras haces el curso o te quedas bloqueado puedes preguntar e
 
 [Hacer el curso en vídeo](https://kikopalomares.com/cursos/html)
 
-<a href="https://kikopalomares.com/cursos/html" target="_blank">
-    <img src="./img/curso_html_thumbnail.jpg" alt="Imagen del curso de HTML de Kiko Palomares">
-</a>
-
+[![Imagen del curso de HTML de Kiko Palomares](./img/curso_html_thumbnail.jpg)](https://kikopalomares.com/cursos/html)
 
 ## Índice del curso
 
@@ -46,12 +43,12 @@ Si tienes dudas mientras haces el curso o te quedas bloqueado puedes preguntar e
    4. [Bloques y elementos in línea](./modulos/04_HTML_avanzado/4.4_Bloques_y_elementos_en_linea.md)
    5. [Iframes](./modulos/04_HTML_avanzado/4.5_Iframes.md)
    6. [Head](./modulos/04_HTML_avanzado/4.6_Head.md)
-   7. Layouts
-   8. Elementos de código
-   9. Semántica
-   10. Entidades
-   11. Emojis
-   12. Guía de estilo
+   7. [Layouts](./modulos/04_HTML_avanzado/4.7_Layouts.md)
+   8. [Elementos de código](./modulos/04_HTML_avanzado/4.8_Elementos_de_codigo.md)
+   9. [Semántica](./modulos/04_HTML_avanzado/4.9_Semantica.md)
+   10. [Entidades](./modulos/04_HTML_avanzado/4.10_Entidades.md)
+   11. [Emojis](./modulos/04_HTML_avanzado/4.11_Emojis.md)
+   12. [Guía de estilo](./modulos/04_HTML_avanzado/4.12_Guia_de_estilo.md)
 
 -----------
 
