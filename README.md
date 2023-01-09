@@ -12,6 +12,21 @@ Si tienes dudas mientras haces el curso o te quedas bloqueado puedes preguntar e
 
 [![Imagen del curso de HTML de Kiko Palomares](./img/curso_html_thumbnail.jpg)](https://kikopalomares.com/cursos/html)
 
+-----------
+
+## El libro del curso
+
+Puedes adquirir el libro del curso en formato papel o digital. Puedes buscarlo directamente en tu tienda Amazon habitual. El contenido del libro es muy similar al que encontrarás en este proyecto, no te hace falta para aprender HTML, adquirir el libro es más un gesto de agradecimiento hacia mi trabajo. Gracias.
+
+- [Ver en Amazon ES](https://amzn.to/3XhpZnK)
+- [Ver en Amazon US](https://www.amazon.com/-/es/dp/B0BRLW4XBT)
+
+<a href="https://amzn.to/3XhpZnK" target="_blank">
+   <img src="./img/portada_libro_aprende_html.jpg" width="250">
+</a>
+
+-----------
+
 ## Índice del curso
 
 1. HTML básico
